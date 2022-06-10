@@ -7,7 +7,6 @@ public class Exercicio17 {
         Scanner sc = new Scanner(System.in);
 
         int valor[] = new int[20];
-        int valores = 0;
 
         for (int i = 1; i < 21; i++) {
             System.out.println(i + " idade: ");
