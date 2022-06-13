@@ -13,7 +13,7 @@ public class Exercicio19 {
         System.out.println("Digite o valor da cotação US$: ");
         dolar = sc.nextDouble();
 
-        conversao = real / dolar;
+        conversao = real * dolar;
 
 
         System.out.println("Você tem US$ " + conversao);
